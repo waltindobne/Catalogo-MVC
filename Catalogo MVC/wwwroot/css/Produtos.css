@@ -1,0 +1,119 @@
+﻿*{
+    margin: 0;
+    padding: 0;
+}
+:root {
+    --blue: #483D8B;
+    --green: #32CD32;
+}
+body {
+    width: 100%;
+}
+
+.destaque{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.destaque img{
+    width: 40%;
+}
+
+.textoDestaque {
+    width: 30%;
+    margin-right: 10%;
+}
+.textoDestaque h1{
+
+}
+.textoDestaque p{
+    font-size: 25px;
+}
+.redirectProd{
+    margin: 100px auto;
+    margin-top: -50px;
+    width: 400px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid var(--blue);
+    color: var(--blue);
+    border-radius: 10px;
+    text-decoration: none;
+    transition: .2s;
+}
+.redirectProd:hover{
+    background-color: var(--blue);
+    width: 400px;
+    font-size: 20px;
+    color: white;
+    padding: 7px;
+}
+
+.sobreNos {
+    width: 100%;
+    height: 500px;
+    background-color: var(--blue);
+    padding: 40px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.sobreNos h3{
+    width: 75%;
+    display: flex;
+    justify-content: start;
+    margin-bottom: 30px;
+    color: lightblue;
+}
+.sobreNos p{
+    width: 72%;
+    font-size: 20px;
+    text-align: justify;
+}
+
+#produtos{
+    width: 100%;
+    background-color: lightgray;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 80px;
+}
+.quadroProduto{
+    width: 300px;
+    background-color: white;
+    border-radius: 15px;
+    padding: 10px;
+    padding-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.quadroProduto img{
+    width: 100%;
+    height: 200px;
+}
+.descricao{
+    font-size: 18px;
+}
+.valor{
+    width: 100%;
+    font-size: 20px;
+    color: var(--green);
+    text-align: start;
+}
+.quadroProduto button{
+    width: 90%;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    background-color: var(--green);
+    margin: 0 auto;
+}

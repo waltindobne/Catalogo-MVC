@@ -1,0 +1,7 @@
+C:\Users\walte\source\repos\Catalogo MVC\Catalogo MVC\obj\Debug\net8.0\PubTmp\Out\Catalogo MVC.exe
+C:\Users\walte\source\repos\Catalogo MVC\Catalogo MVC\obj\Debug\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\walte\source\repos\Catalogo MVC\Catalogo MVC\obj\Debug\net8.0\PubTmp\Out\appsettings.json
+C:\Users\walte\source\repos\Catalogo MVC\Catalogo MVC\obj\Debug\net8.0\PubTmp\Out\Catalogo MVC.dll
+C:\Users\walte\source\repos\Catalogo MVC\Catalogo MVC\obj\Debug\net8.0\PubTmp\Out\Catalogo MVC.deps.json
+C:\Users\walte\source\repos\Catalogo MVC\Catalogo MVC\obj\Debug\net8.0\PubTmp\Out\Catalogo MVC.runtimeconfig.json
+C:\Users\walte\source\repos\Catalogo MVC\Catalogo MVC\obj\Debug\net8.0\PubTmp\Out\Catalogo MVC.pdb
