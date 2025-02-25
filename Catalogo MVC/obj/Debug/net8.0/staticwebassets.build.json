@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "oYGv93rdRM2/Q8Gf/C+Z5EfC8G+qH8EBqq8d5/JcVQs=",
+  "Hash": "E7njeow8KJhkJTtYaRrLxohjqxhMoBqh97EgeHUb0fI=",
   "Source": "Catalogo MVC",
   "BasePath": "_content/Catalogo MVC",
   "Mode": "Default",
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "dyjx89twm7",
-      "Integrity": "u4DszuiY1WLPnENub5+KbAlwyJCcCHdKlyaXaKLaRqk=",
+      "Fingerprint": "hgqycg8jio",
+      "Integrity": "ccbPw94gvwVyNC8L8ax7mfYcGbZPHL+mIkHeRYExJAQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\Carrinho.css"
@@ -94,8 +94,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "gk9xmsgnii",
-      "Integrity": "sDS4kUprsMYj7kpIFXYwJiIFkIQeZdFtorABEPqYmLU=",
+      "Fingerprint": "a2fozdn42j",
+      "Integrity": "QilOUiUGTNo5v55C2aW2ADScL0PiLw/h1i5dMj24bEI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\Layout.css"
@@ -115,8 +115,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "jtnam0eczs",
-      "Integrity": "6bLzYvTZkDzg6mS/J4LyPiIBC/kbFStn6QFLDrs6h6w=",
+      "Fingerprint": "j06enxucn5",
+      "Integrity": "DW+fMCjX4ATjrXFXuCa7ilAB0ToI4d7Q4pDA1Z6lRA4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\Produtos.css"
@@ -136,8 +136,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "n9iqjlqven",
-      "Integrity": "BVqLyt1h6iXkWzZK/NahoK5JC+nRx9dXJ5FOLW4a0E8=",
+      "Fingerprint": "o5nh6dugtp",
+      "Integrity": "hHaGqO+l4yCXkwsNsIDy+5oW8I39ZKeYf5IKeSXRJ2Q=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -1579,7 +1579,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14"
+          "Value": "376"
         },
         {
           "Name": "Content-Type",
@@ -1587,11 +1587,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"u4DszuiY1WLPnENub5+KbAlwyJCcCHdKlyaXaKLaRqk=\""
+          "Value": "\"ccbPw94gvwVyNC8L8ax7mfYcGbZPHL+mIkHeRYExJAQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Feb 2025 18:58:05 GMT"
+          "Value": "Tue, 25 Feb 2025 17:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1601,12 +1601,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-u4DszuiY1WLPnENub5+KbAlwyJCcCHdKlyaXaKLaRqk="
+          "Value": "sha256-ccbPw94gvwVyNC8L8ax7mfYcGbZPHL+mIkHeRYExJAQ="
         }
       ]
     },
     {
-      "Route": "css/Carrinho.dyjx89twm7.css",
+      "Route": "css/Carrinho.hgqycg8jio.css",
       "AssetFile": "C:\\Users\\walte\\source\\repos\\Catalogo MVC\\Catalogo MVC\\wwwroot\\css\\Carrinho.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1616,7 +1616,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14"
+          "Value": "376"
         },
         {
           "Name": "Content-Type",
@@ -1624,11 +1624,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"u4DszuiY1WLPnENub5+KbAlwyJCcCHdKlyaXaKLaRqk=\""
+          "Value": "\"ccbPw94gvwVyNC8L8ax7mfYcGbZPHL+mIkHeRYExJAQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Feb 2025 18:58:05 GMT"
+          "Value": "Tue, 25 Feb 2025 17:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1638,7 +1638,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "dyjx89twm7"
+          "Value": "hgqycg8jio"
         },
         {
           "Name": "label",
@@ -1646,7 +1646,52 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-u4DszuiY1WLPnENub5+KbAlwyJCcCHdKlyaXaKLaRqk="
+          "Value": "sha256-ccbPw94gvwVyNC8L8ax7mfYcGbZPHL+mIkHeRYExJAQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/Layout.a2fozdn42j.css",
+      "AssetFile": "C:\\Users\\walte\\source\\repos\\Catalogo MVC\\Catalogo MVC\\wwwroot\\css\\Layout.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1449"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QilOUiUGTNo5v55C2aW2ADScL0PiLw/h1i5dMj24bEI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 16:45:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a2fozdn42j"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Layout.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QilOUiUGTNo5v55C2aW2ADScL0PiLw/h1i5dMj24bEI="
         }
       ]
     },
@@ -1661,7 +1706,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "979"
+          "Value": "1449"
         },
         {
           "Name": "Content-Type",
@@ -1669,11 +1714,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"sDS4kUprsMYj7kpIFXYwJiIFkIQeZdFtorABEPqYmLU=\""
+          "Value": "\"QilOUiUGTNo5v55C2aW2ADScL0PiLw/h1i5dMj24bEI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Feb 2025 20:25:16 GMT"
+          "Value": "Tue, 25 Feb 2025 16:45:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1683,52 +1728,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-sDS4kUprsMYj7kpIFXYwJiIFkIQeZdFtorABEPqYmLU="
-        }
-      ]
-    },
-    {
-      "Route": "css/Layout.gk9xmsgnii.css",
-      "AssetFile": "C:\\Users\\walte\\source\\repos\\Catalogo MVC\\Catalogo MVC\\wwwroot\\css\\Layout.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "979"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"sDS4kUprsMYj7kpIFXYwJiIFkIQeZdFtorABEPqYmLU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 24 Feb 2025 20:25:16 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "gk9xmsgnii"
-        },
-        {
-          "Name": "label",
-          "Value": "css/Layout.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-sDS4kUprsMYj7kpIFXYwJiIFkIQeZdFtorABEPqYmLU="
+          "Value": "sha256-QilOUiUGTNo5v55C2aW2ADScL0PiLw/h1i5dMj24bEI="
         }
       ]
     },
@@ -1743,7 +1743,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2104"
+          "Value": "2124"
         },
         {
           "Name": "Content-Type",
@@ -1751,11 +1751,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"6bLzYvTZkDzg6mS/J4LyPiIBC/kbFStn6QFLDrs6h6w=\""
+          "Value": "\"DW+fMCjX4ATjrXFXuCa7ilAB0ToI4d7Q4pDA1Z6lRA4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Feb 2025 20:47:00 GMT"
+          "Value": "Tue, 25 Feb 2025 17:33:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1765,12 +1765,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-6bLzYvTZkDzg6mS/J4LyPiIBC/kbFStn6QFLDrs6h6w="
+          "Value": "sha256-DW+fMCjX4ATjrXFXuCa7ilAB0ToI4d7Q4pDA1Z6lRA4="
         }
       ]
     },
     {
-      "Route": "css/Produtos.jtnam0eczs.css",
+      "Route": "css/Produtos.j06enxucn5.css",
       "AssetFile": "C:\\Users\\walte\\source\\repos\\Catalogo MVC\\Catalogo MVC\\wwwroot\\css\\Produtos.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1780,7 +1780,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2104"
+          "Value": "2124"
         },
         {
           "Name": "Content-Type",
@@ -1788,11 +1788,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"6bLzYvTZkDzg6mS/J4LyPiIBC/kbFStn6QFLDrs6h6w=\""
+          "Value": "\"DW+fMCjX4ATjrXFXuCa7ilAB0ToI4d7Q4pDA1Z6lRA4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Feb 2025 20:47:00 GMT"
+          "Value": "Tue, 25 Feb 2025 17:33:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1802,7 +1802,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "jtnam0eczs"
+          "Value": "j06enxucn5"
         },
         {
           "Name": "label",
@@ -1810,7 +1810,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-6bLzYvTZkDzg6mS/J4LyPiIBC/kbFStn6QFLDrs6h6w="
+          "Value": "sha256-DW+fMCjX4ATjrXFXuCa7ilAB0ToI4d7Q4pDA1Z6lRA4="
         }
       ]
     },
@@ -1825,7 +1825,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "390"
+          "Value": "97"
         },
         {
           "Name": "Content-Type",
@@ -1833,11 +1833,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"BVqLyt1h6iXkWzZK/NahoK5JC+nRx9dXJ5FOLW4a0E8=\""
+          "Value": "\"hHaGqO+l4yCXkwsNsIDy+5oW8I39ZKeYf5IKeSXRJ2Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Feb 2025 19:54:07 GMT"
+          "Value": "Tue, 25 Feb 2025 16:09:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1847,12 +1847,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-BVqLyt1h6iXkWzZK/NahoK5JC+nRx9dXJ5FOLW4a0E8="
+          "Value": "sha256-hHaGqO+l4yCXkwsNsIDy+5oW8I39ZKeYf5IKeSXRJ2Q="
         }
       ]
     },
     {
-      "Route": "css/site.n9iqjlqven.css",
+      "Route": "css/site.o5nh6dugtp.css",
       "AssetFile": "C:\\Users\\walte\\source\\repos\\Catalogo MVC\\Catalogo MVC\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1862,7 +1862,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "390"
+          "Value": "97"
         },
         {
           "Name": "Content-Type",
@@ -1870,11 +1870,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"BVqLyt1h6iXkWzZK/NahoK5JC+nRx9dXJ5FOLW4a0E8=\""
+          "Value": "\"hHaGqO+l4yCXkwsNsIDy+5oW8I39ZKeYf5IKeSXRJ2Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Feb 2025 19:54:07 GMT"
+          "Value": "Tue, 25 Feb 2025 16:09:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1884,7 +1884,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "n9iqjlqven"
+          "Value": "o5nh6dugtp"
         },
         {
           "Name": "label",
@@ -1892,7 +1892,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-BVqLyt1h6iXkWzZK/NahoK5JC+nRx9dXJ5FOLW4a0E8="
+          "Value": "sha256-hHaGqO+l4yCXkwsNsIDy+5oW8I39ZKeYf5IKeSXRJ2Q="
         }
       ]
     },

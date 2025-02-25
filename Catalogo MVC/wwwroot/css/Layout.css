@@ -49,9 +49,32 @@ ul{
     padding: 0;
 }
 
-footer{
+.footer{
     width: 100%; 
     overflow:hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    background-color: white;
+}
+.contatosFooter {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.contatosFooter p{
+    margin: 0px 20px;
+    font-size: 20px;
+}
+.direitosFooter{
+    background-color: var(--Blue);
+    width: 100%;
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 0;
+    color: white;
     display: flex;
     justify-content: center;
     align-items: center;

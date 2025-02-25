@@ -1,2 +1,26 @@
-﻿body {
+﻿* {
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --blue: #483D8B;
+    --green: #32CD32;
+}
+
+body {
+    width: 100%;
+}
+main{
+    background-color: lightgray;
+    width: 100%;
+    margin-top: -20px;
+    padding-top: 30px;
+}
+.carrinho{
+    width: 900px;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 30px auto;
+    background-color: white;
 }

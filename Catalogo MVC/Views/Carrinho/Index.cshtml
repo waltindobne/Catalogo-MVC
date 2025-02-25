@@ -1,12 +1,30 @@
 ﻿<!DOCTYPE html>
-<html lang="pt-BR">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Meu Site</title>
+    <link href="~/css/Carrinho.css" rel="stylesheet" />
 </head>
 <body>
-    <h1>Olá, mundo!</h1>
-    <p>Este é um exemplo básico de HTML.</p>
+    <main>
+        <div class="carrinho">
+            <div class="produtos">
+                <div class="linhaProduto">
+                    <img src="#" alt="Alternate Text" />
+                    <div class="descricao">
+                        <p class="valor">R$ 250,00</p>
+                        <button class="altQuantProd"><i class="bi bi-plus-lg"></i></button>
+                        <p class="quantProd">1</p>
+                        <button class="altQuantProd"><i class="bi bi-dash-lg"></i></button>
+                    </div>
+                </div>
+            </div>
+            <div class="resumo">
+                <p class="valorTotal">R$ 500,00</p>
+                <p class="quantTotal">2</p>
+            </div>
+        </div>
+    </main>
 </body>
 </html>

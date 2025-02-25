@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Catalogo MVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a55acf2bc2ba902cc05fbcab27c33edc94e8f577")]
 [assembly: System.Reflection.AssemblyProductAttribute("Catalogo MVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Catalogo MVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
